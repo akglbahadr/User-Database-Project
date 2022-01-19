@@ -1,2 +1,3 @@
 # User-Database-Project
-A fullstack app with Node.js, Express &amp; MySQL
+
+A simple CRUD ops app with Node.js, Express &amp; MySQL
